@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="7.0.0"/>
+	<deviceVariant value="MSP432P401R"/>
+	<deviceFamily value="MSP432"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="16.9.0.LTS"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="msp432p401r.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=projectzero_sap_msp432launchxl.projectspec.project_zero_ble_sap_msp432launchxl,type=rtsc,products=com.ti.rtsc.TIRTOSmsp430,xdcToolsVersion=3.31.01.33,target=ti.targets.arm.elf.M4F,platform=ti.platforms.msp432:MSP432P401R,buildProfile=release,isHybrid=true,configuroOptions=--compileOptions &quot;${COMPILER_FLAGS} &quot; ,"/>
+	<origin value="c:\ti\simplelink_academy_01_11_00_0000\modules\projects\ble_msp_projectzero\ccs\projectzero_sap_msp432launchxl.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
